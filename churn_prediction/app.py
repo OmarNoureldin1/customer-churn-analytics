@@ -26,10 +26,20 @@ st.set_page_config(
 
 # LOAD MODELS & SCALER
 
-log_model = pickle.load(open("models/Logistic_model.pkl", "rb"))
-rf_model = pickle.load(open("models/RandomForest_model.pkl", "rb"))
-xgb_model = pickle.load(open("models/XGBoost_model.pkl", "rb"))
-scaler = pickle.load(open("models/scaler.pkl", "rb"))
+pickle.load(open(os.path.join(BASE_DIR, "models", "Logistic_model.pkl"), "rb"))
+
+rf_model = pickle.load(
+    open(os.path.join(BASE_DIR, "models", "RandomForest_model.pkl"), "rb")
+)
+
+xgb_model = pickle.load(
+    open(os.path.join(BASE_DIR, "models", "XGBoost_model.pkl"), "rb")
+)
+
+scaler = pickle.load(
+    open(os.path.join(BASE_DIR, "models", "scaler.pkl"), "rb")
+)
+
 
 
 # LOAD DATA FOR MODEL SELECTION
