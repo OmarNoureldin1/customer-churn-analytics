@@ -7,6 +7,13 @@ import numpy as np
 from sklearn.metrics import accuracy_score, f1_score, roc_auc_score
 import shap
 
+import os
+import sys
+
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+sys.path.append(BASE_DIR)
+
+
 
 # PAGE CONFIG (MUST BE FIRST)
 
