@@ -26,6 +26,7 @@ st.set_page_config(
 
 # LOAD MODELS & SCALER
 
+
 pickle.load(open(os.path.join(BASE_DIR, "models", "Logistic_model.pkl"), "rb"))
 
 rf_model = pickle.load(
@@ -39,7 +40,6 @@ xgb_model = pickle.load(
 scaler = pickle.load(
     open(os.path.join(BASE_DIR, "models", "scaler.pkl"), "rb")
 )
-
 
 
 # LOAD DATA FOR MODEL SELECTION
