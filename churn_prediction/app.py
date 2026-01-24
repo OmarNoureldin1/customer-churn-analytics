@@ -62,7 +62,7 @@ best_model_name = max(roc_scores, key=roc_scores.get)
 model = model_dict[best_model_name]
 
 # ===================== HEADER =====================
-st.title("📉 Customer Churn Analytics Dashboard")
+st.title(" Customer Churn Analytics Dashboard")
 st.write("End-to-end ML system with prediction, analytics, and explainability")
 
 st.success(
@@ -81,7 +81,7 @@ tab1, tab2, tab3, tab4, tab5 = st.tabs([
 
 # ===================== TAB 1: SINGLE PREDICTION =====================
 with tab1:
-    st.subheader("🔍 Predict Churn for a Single Customer")
+    st.subheader(" Predict Churn for a Single Customer")
 
     col1, col2 = st.columns(2)
 
